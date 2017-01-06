@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/codestore/ncibi/commons/!svn/ver/273/trunk/src/main/java/org/ncibi/commons/annotation
+END
+ClassAnnotationCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/commons/!svn/ver/273/trunk/src/main/java/org/ncibi/commons/annotation/ClassAnnotationCollector.java
+END
+ClassMethodAnnotationCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codestore/ncibi/commons/!svn/ver/87/trunk/src/main/java/org/ncibi/commons/annotation/ClassMethodAnnotationCollector.java
+END
+MultiFieldSearchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/codestore/ncibi/commons/!svn/ver/77/trunk/src/main/java/org/ncibi/commons/annotation/MultiFieldSearchField.java
+END
+ClassFieldAnnotationCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/codestore/ncibi/commons/!svn/ver/87/trunk/src/main/java/org/ncibi/commons/annotation/ClassFieldAnnotationCollector.java
+END
+DefaultSearchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/codestore/ncibi/commons/!svn/ver/77/trunk/src/main/java/org/ncibi/commons/annotation/DefaultSearchField.java
+END

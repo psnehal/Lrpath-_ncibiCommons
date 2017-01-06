@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/codestore/ncibi/commons/!svn/ver/250/trunk/src/main/java/org/ncibi/commons/ipc
+END
+IpcLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/codestore/ncibi/commons/!svn/ver/248/trunk/src/main/java/org/ncibi/commons/ipc/IpcLock.java
+END
+ThreadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codestore/ncibi/commons/!svn/ver/250/trunk/src/main/java/org/ncibi/commons/ipc/ThreadUtil.java
+END
+FLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/codestore/ncibi/commons/!svn/ver/248/trunk/src/main/java/org/ncibi/commons/ipc/FLock.java
+END

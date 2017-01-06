@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/codestore/ncibi/commons/!svn/ver/302/trunk/src/main/java/org/ncibi/commons/lang
+END
+NumUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/301/trunk/src/main/java/org/ncibi/commons/lang/NumUtils.java
+END
+IterableUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/codestore/ncibi/commons/!svn/ver/228/trunk/src/main/java/org/ncibi/commons/lang/IterableUtil.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/codestore/ncibi/commons/!svn/ver/154/trunk/src/main/java/org/ncibi/commons/lang/ClassUtils.java
+END
+PostCond.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/162/trunk/src/main/java/org/ncibi/commons/lang/PostCond.java
+END
+StrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/302/trunk/src/main/java/org/ncibi/commons/lang/StrUtils.java
+END
+PreCond.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/codestore/ncibi/commons/!svn/ver/163/trunk/src/main/java/org/ncibi/commons/lang/PreCond.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codestore/ncibi/commons/!svn/ver/287/trunk/src/main/java/org/ncibi/commons/lang/ArrayUtil.java
+END
+ClassLoaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/commons/!svn/ver/230/trunk/src/main/java/org/ncibi/commons/lang/ClassLoaderUtils.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/codestore/ncibi/commons/!svn/ver/224/trunk/src/main/java/org/ncibi/commons/lang/XmlUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/codestore/ncibi/commons/!svn/ver/38/trunk/src/main/java/org/ncibi/commons/lang/package.html
+END

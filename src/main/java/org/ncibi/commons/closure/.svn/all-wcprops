@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/codestore/ncibi/commons/!svn/ver/178/trunk/src/main/java/org/ncibi/commons/closure
+END
+Closures.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/commons/!svn/ver/178/trunk/src/main/java/org/ncibi/commons/closure/Closures.java
+END
+NamedFieldGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/commons/!svn/ver/52/trunk/src/main/java/org/ncibi/commons/closure/NamedFieldGetter.java
+END
+F0.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/176/trunk/src/main/java/org/ncibi/commons/closure/F0.java
+END
+F1.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/176/trunk/src/main/java/org/ncibi/commons/closure/F1.java
+END
+FieldTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/commons/!svn/ver/52/trunk/src/main/java/org/ncibi/commons/closure/FieldTransformer.java
+END
+F2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/176/trunk/src/main/java/org/ncibi/commons/closure/F2.java
+END
+F3.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/176/trunk/src/main/java/org/ncibi/commons/closure/F3.java
+END
+FieldChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/codestore/ncibi/commons/!svn/ver/52/trunk/src/main/java/org/ncibi/commons/closure/FieldChanger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codestore/ncibi/commons/!svn/ver/38/trunk/src/main/java/org/ncibi/commons/closure/package.html
+END
+P0.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/177/trunk/src/main/java/org/ncibi/commons/closure/P0.java
+END
+P1.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/177/trunk/src/main/java/org/ncibi/commons/closure/P1.java
+END
+P2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/177/trunk/src/main/java/org/ncibi/commons/closure/P2.java
+END
+TransformerFieldGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/codestore/ncibi/commons/!svn/ver/52/trunk/src/main/java/org/ncibi/commons/closure/TransformerFieldGetter.java
+END
+AbstractFieldGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/commons/!svn/ver/52/trunk/src/main/java/org/ncibi/commons/closure/AbstractFieldGetter.java
+END
+P3.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codestore/ncibi/commons/!svn/ver/177/trunk/src/main/java/org/ncibi/commons/closure/P3.java
+END
+ChangerFieldGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/commons/!svn/ver/53/trunk/src/main/java/org/ncibi/commons/closure/ChangerFieldGetter.java
+END
+FieldGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/codestore/ncibi/commons/!svn/ver/52/trunk/src/main/java/org/ncibi/commons/closure/FieldGetter.java
+END

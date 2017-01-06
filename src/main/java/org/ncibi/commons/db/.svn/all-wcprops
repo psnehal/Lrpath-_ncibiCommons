@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/codestore/ncibi/commons/!svn/ver/284/trunk/src/main/java/org/ncibi/commons/db
+END
+JDBInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/88/trunk/src/main/java/org/ncibi/commons/db/JDBInstance.java
+END
+JDBCExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/codestore/ncibi/commons/!svn/ver/284/trunk/src/main/java/org/ncibi/commons/db/JDBCExecuter.java
+END
+JDBResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codestore/ncibi/commons/!svn/ver/53/trunk/src/main/java/org/ncibi/commons/db/JDBResultSet.java
+END
+DBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/codestore/ncibi/commons/!svn/ver/161/trunk/src/main/java/org/ncibi/commons/db/DBConfig.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/codestore/ncibi/commons/!svn/ver/38/trunk/src/main/java/org/ncibi/commons/db/package.html
+END

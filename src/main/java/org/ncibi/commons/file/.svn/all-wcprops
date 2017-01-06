@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/codestore/ncibi/commons/!svn/ver/300/trunk/src/main/java/org/ncibi/commons/file
+END
+ExcelFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codestore/ncibi/commons/!svn/ver/297/trunk/src/main/java/org/ncibi/commons/file/ExcelFile.java
+END
+TextFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/300/trunk/src/main/java/org/ncibi/commons/file/TextFile.java
+END
+DataFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/297/trunk/src/main/java/org/ncibi/commons/file/DataFile.java
+END

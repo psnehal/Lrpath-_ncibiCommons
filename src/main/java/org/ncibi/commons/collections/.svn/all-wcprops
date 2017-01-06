@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/codestore/ncibi/commons/!svn/ver/301/trunk/src/main/java/org/ncibi/commons/collections
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/codestore/ncibi/commons/!svn/ver/165/trunk/src/main/java/org/ncibi/commons/collections/Mapper.java
+END
+ListUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/commons/!svn/ver/301/trunk/src/main/java/org/ncibi/commons/collections/ListUtilities.java
+END
+MapUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/commons/!svn/ver/165/trunk/src/main/java/org/ncibi/commons/collections/MapUtilities.java
+END
+IdentityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/commons/!svn/ver/165/trunk/src/main/java/org/ncibi/commons/collections/IdentityMapper.java
+END

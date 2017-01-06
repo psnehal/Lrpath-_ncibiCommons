@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/codestore/ncibi/commons/!svn/ver/270/trunk/src/main/java/org/ncibi/commons/io
+END
+FileInputProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/commons/!svn/ver/251/trunk/src/main/java/org/ncibi/commons/io/FileInputProcessor.java
+END
+FileInputProcessorWIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/commons/!svn/ver/252/trunk/src/main/java/org/ncibi/commons/io/FileInputProcessorWIP.java
+END
+InputStreamLineProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/codestore/ncibi/commons/!svn/ver/252/trunk/src/main/java/org/ncibi/commons/io/InputStreamLineProcessor.java
+END
+FileInputLineProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/commons/!svn/ver/251/trunk/src/main/java/org/ncibi/commons/io/FileInputLineProcessor.java
+END
+CountedFileInputLineProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/codestore/ncibi/commons/!svn/ver/251/trunk/src/main/java/org/ncibi/commons/io/CountedFileInputLineProcessor.java
+END
+DelimitedLineDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/commons/!svn/ver/251/trunk/src/main/java/org/ncibi/commons/io/DelimitedLineDataLoader.java
+END
+FileStreamProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/codestore/ncibi/commons/!svn/ver/234/trunk/src/main/java/org/ncibi/commons/io/FileStreamProcessor.java
+END
+FileUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/commons/!svn/ver/270/trunk/src/main/java/org/ncibi/commons/io/FileUtilities.java
+END
+InputStreamProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/commons/!svn/ver/252/trunk/src/main/java/org/ncibi/commons/io/InputStreamProcessor.java
+END
+FileOutputStreamProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/codestore/ncibi/commons/!svn/ver/234/trunk/src/main/java/org/ncibi/commons/io/FileOutputStreamProcessor.java
+END

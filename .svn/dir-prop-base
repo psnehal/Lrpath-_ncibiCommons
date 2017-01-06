@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 85
+.pmd
+.classpath
+.project
+bin
+build
+build.properties
+doc
+.checkstyle
+target
+.settings
+
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/codestore/ncibi/commons/!svn/ver/289/trunk/src/main/java/org/ncibi/commons/config
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/codestore/ncibi/commons/!svn/ver/270/trunk/src/main/java/org/ncibi/commons/config/Configuration.java
+END
+SearchConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/codestore/ncibi/commons/!svn/ver/212/trunk/src/main/java/org/ncibi/commons/config/SearchConfig.java
+END
+InvalidConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codestore/ncibi/commons/!svn/ver/233/trunk/src/main/java/org/ncibi/commons/config/InvalidConfigurationException.java
+END
+LoaderConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/commons/!svn/ver/142/trunk/src/main/java/org/ncibi/commons/config/LoaderConfiguration.java
+END
+ProjectConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/codestore/ncibi/commons/!svn/ver/289/trunk/src/main/java/org/ncibi/commons/config/ProjectConfiguration.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/commons/!svn/ver/38/trunk/src/main/java/org/ncibi/commons/config/package.html
+END

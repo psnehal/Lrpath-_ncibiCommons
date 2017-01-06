@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/codestore/ncibi/commons/!svn/ver/73/trunk/src/test/resources
+END
+emptydata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/codestore/ncibi/commons/!svn/ver/65/trunk/src/test/resources/emptydata.txt
+END
+project.config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/codestore/ncibi/commons/!svn/ver/68/trunk/src/test/resources/project.config
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/codestore/ncibi/commons/!svn/ver/67/trunk/src/test/resources/test.properties
+END
